@@ -9,7 +9,7 @@ let uri = 'mongodb+srv://budeerokkam1199:ZzDngxfau2bHZ5kF@cluster1.i3bbo.mongodb
 //         console.log(err)
 //     }
 // }
-mongoose.connect(uri,)
+mongoose.connect(uri)
 
 const connectdb = mongoose.connection
 
